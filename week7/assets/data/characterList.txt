@@ -18,3 +18,7 @@ spirit
 tankman
 pico-speaker
 bf-holding-gf
+aflac
+corrupt-bf
+allure-gf
+corrupt-gf
