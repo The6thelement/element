@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf2",
-		"player2": "aflac3",
+		"player1": "bf",
+		"player2": "aflac",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -13633,7 +13633,7 @@
 		"isMoody": false,
 		"sectionLengths": [],
 		"uiType": "normal",
-		"stage": "overworldC",
+		"stage": "stage",
 		"sections": 0,
 		"needsVoices": true,
 		"gf": "gf",

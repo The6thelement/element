@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bfscared",
+		"player1": "bf",
 		"player2": "jake",
 		"notes": [
 			{
@@ -22108,7 +22108,7 @@
 		"isMoody": false,
 		"sectionLengths": [],
 		"uiType": "normal",
-		"stage": "brotherlybond",
+		"stage": "spooky",
 		"sections": 0,
 		"needsVoices": true,
 		"bpm": 250,

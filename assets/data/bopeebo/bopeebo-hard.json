@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "corruptBF",
+		"player1": "bf",
 		"gfVersion": "corruptGF",
 		"notes": [
 			{
@@ -35529,14 +35529,14 @@
 				]
 			]
 		],
-		"player2": "invisible",
+		"player2": "dad-dead",
 		"player3": null,
 		"splashSkin": "noteSplashes",
 		"song": "outnumbered",
 		"needsVoices": true,
 		"arrowSkin": "corruptNotes",
 		"validScore": true,
-		"stage": "deathmatchStage",
+		"stage": "stage",
 		"bpm": 188,
 		"speed": 2.9
 	}
