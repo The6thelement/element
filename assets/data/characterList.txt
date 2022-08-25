@@ -22,7 +22,6 @@ aflac
 corrupt-bf
 allure-gf
 jake
-aflac
 dad-dead
 majin
 pibby-bf
